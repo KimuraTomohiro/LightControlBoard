@@ -1,0 +1,2 @@
+# LightControlBoard
+Dynamixelの通信路に挟んでLEDなどを制御できるモジュールの公開データです。
